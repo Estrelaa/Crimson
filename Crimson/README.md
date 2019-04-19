@@ -1,2 +1,0 @@
-# Crimson
-Crimson Game Engine
