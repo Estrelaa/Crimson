@@ -2,3 +2,6 @@
 .vs/
 bin/
 Intermediate/
+
+# Files
+*.user
